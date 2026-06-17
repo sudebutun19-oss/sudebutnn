@@ -1,10 +1,26 @@
-# sudebutnn
+# 👋 Merhaba, ben Sude
+
 🎓 Bilgisayar Programcılığı Öğrencisi
 
-💻 Yazılım geliştirme, C# ve .NET teknolojileri üzerine kendimi geliştiriyorum. Yeni teknolojiler öğrenmeyi, projeler üretmeyi ve problem çözmeyi seviyorum.
+💻 Yazılım geliştirme, veritabanı sistemleri ve web teknolojileri alanlarında kendimi geliştirmekteyim. Yeni teknolojiler öğrenmeyi, projeler üretmeyi ve problem çözmeyi seviyorum.
 
-🚀 Hedefim; sürekli öğrenerek modern yazılım geliştirme alanında uzmanlaşmak, açık kaynak projelere katkıda bulunmak ve faydalı uygulamalar geliştirmek.
+🛠️ Teknolojiler
 
-📚 Şu anda C#, Git, GitHub, veritabanı sistemleri ve web teknolojileri üzerinde çalışıyorum.
+* C#
+* .NET
+* SQL & MySQL
+* HTML & CSS
+* Python
+* Git & GitHub
 
-✨ Her gün bir adım daha ileri gitmek için kod yazıyor, araştırıyor ve yeni şeyler öğreniyorum.
+🚀 Projeler
+
+* Otel Rezervasyon ve Konaklama Yönetim Sistemi
+* SQL Veritabanı Projeleri
+* Web Tasarım Çalışmaları
+
+📚 Şu anda veritabanı tasarımı, GitHub kullanımı ve web geliştirme üzerine çalışıyorum.
+
+🎯 Hedefim; sürekli öğrenerek modern yazılım geliştirme alanında uzmanlaşmak, açık kaynak projelere katkıda bulunmak ve kullanıcı odaklı uygulamalar geliştirmektir.
+
+✨ Her gün yeni şeyler öğrenerek kendimi geliştirmeye ve projeler üretmeye devam ediyorum.
